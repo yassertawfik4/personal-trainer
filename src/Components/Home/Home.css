@@ -1,0 +1,15 @@
+section.home {
+  /* خلفية صورة مع التدرج */
+  background-image: url("/src/assets/danielle-cerullo-CQfNt66ttZM-unsplash 1.svg");
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: auto;
+}
+.textcolor {
+  background: linear-gradient(to bottom, #ffffff 0%, transparent 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  opacity: 30%;
+}
