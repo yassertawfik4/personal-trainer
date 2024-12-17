@@ -29,6 +29,7 @@ function Home() {
           </div>
         </div>
       </div>
+      
       <img
         className="absolute lg:block hidden w-[1105.48px] top-0 z-0 opacity-50 left-0 lg:left-[396px] h-[932.08px] lg:h-[958.08px]"
         src={bgImage}
