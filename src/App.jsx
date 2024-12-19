@@ -1,4 +1,7 @@
 import About from "./Components/About/About";
+import FQ from "./Components/F&Q/FQ";
+import Footer from "./Components/Footer/Footer";
+import GetStarted from "./Components/GetStrated/GetStarted";
 import Home from "./Components/Home/Home";
 import Navbar from "./Components/Navbar/Navbar";
 import Paner from "./Components/Paner/Paner";
@@ -16,6 +19,9 @@ function App() {
       <Qualifications />
       <Services />
       <Testimonials />
+      <FQ />
+      <GetStarted />
+      <Footer />
     </>
   );
 }

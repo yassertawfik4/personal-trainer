@@ -5,3 +5,9 @@
   color: #ffffff !important;
   font-weight: bold !important;
 }
+.swiper-button-next:after,
+.swiper-rtl .swiper-button-prev:after,
+.swiper-button-prev:after,
+.swiper-rtl .swiper-button-next:after {
+  font-size: 30px !important;
+}
