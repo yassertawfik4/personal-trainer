@@ -4,6 +4,6 @@
 
 body {
   background-color: #1a1a1a;
-  overflow-x: hidden;
+  overflow-x: hidden !important;
   font-family: "Roboto", serif !important;
 }
